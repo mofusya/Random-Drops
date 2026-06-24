@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.mofusya.randomdrops.mixin",
+  "package": "net.mofusya.randomrandomdrops.mixin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "randomdrops.refmap.json",
   "mixins": [

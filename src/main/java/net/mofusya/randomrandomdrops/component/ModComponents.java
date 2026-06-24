@@ -1,8 +1,8 @@
-package net.mofusya.randomdrops.component;
+package net.mofusya.randomrandomdrops.component;
 
 import net.mofusya.ornatelib.registries.component.TagRegisterer;
 import net.mofusya.ornatelib.registries.component.tag.BooleanTag;
-import net.mofusya.randomdrops.C;
+import net.mofusya.randomrandomdrops.C;
 
 public class ModComponents {
     public static final TagRegisterer TAGS = new TagRegisterer(C.MOD_ID);
